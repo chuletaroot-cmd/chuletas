@@ -13,7 +13,7 @@ Chuletas prácticas para **HTB, OSCP y eJPT**, escritas en español. Comandos li
 
 Además de estas dos incluye enumeración web, escalada de privilegios en Linux y en Windows, SQL injection, transferencia de archivos, Active Directory, cracking de hashes (con tabla de modos de hashcat) y pivoting (chisel, ligolo-ng, SSH).
 
-**[Consíguelo en Ko-fi por $4 →](https://ko-fi.com/chuletaroot)**
+**[Consíguelo en Ko-fi por $4 →](https://ko-fi.com/s/d5d574a6d0)**
 
 Si estas dos te sirvieron, una ⭐ al repo ayuda a que más gente en español lo encuentre.
 
