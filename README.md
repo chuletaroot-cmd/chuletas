@@ -28,6 +28,10 @@ Chuletas prácticas para **HTB, OSCP y eJPT**, escritas en español. Comandos li
 
 **[Consíguelo en Ko-fi desde $2, paga lo que quieras →](https://ko-fi.com/s/d5d574a6d0)**
 
+## Scripts a medida
+
+¿Una tarea repetitiva que quieres automatizar (Python, PowerShell o Bash)? [Pídelo en Ko-fi por $10 →](https://ko-fi.com/chuletaroot/commissions)
+
 ## Artículos
 
 - [Escalada de privilegios en Linux: lo que reviso en los primeros 5 minutos](https://dev.to/chuletaroot/escalada-de-privilegios-en-linux-lo-que-reviso-en-los-primeros-5-minutos-2d6i)
